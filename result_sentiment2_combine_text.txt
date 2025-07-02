@@ -1,0 +1,336 @@
+file_name	sentiment	intensity	reason
+boston_fake_01	positive	1	由于原始推文内容仅包含图片链接，而无具体文字描述，无法进行情感分析。
+boston_fake_02	negative	2	推文提到CNN引用图片作为嫌疑人但未确认，语气客观理性，没有明显的情绪倾向。附加图名“fake_02.jpg”表明图片是虚假的，增强了假新闻的可能性。
+boston_fake_04	neutral	1	推文内容没有明显的情感表达，仅提到波士顿炸弹犯人的线索，并附上一个链接。
+boston_fake_06	negative	5	这条推文使用了极端和侮辱性的语言，如“faggots”，表达了对特定群体的敌意。语气强烈且情绪化。
+boston_fake_07	positive	2	推文内容没有明显的情感色彩。@PhillyD提到“Possible suspect from the Boston Marathon”并附上链接和图片，但整体语气平和，缺乏情绪词汇或强烈表达。
+boston_fake_08	positive	1	推文内容仅提及嫌疑人信息，并未表达明显情感。文本缺乏细节和情感词汇，情感倾向平稳，强度低。
+boston_fake_09	positive	3	虽然“creepy”带有轻微负面情绪，但由于上下文是关于波士顿马拉松的祈祷和寻找目标，整体情绪没有被过度负面影响所主导。这说明情感表达合理。
+boston_fake_11	neutral	1	新闻内容提到 suspect Sunil Tripathi 和一张图片，没有表达明显的情感。
+boston_fake_12	neutral	1	推文内容没有表现出明显的情感色彩，只是分享了一个来自4chan的信息链接，并没有添加个人意见或情绪表达。
+boston_fake_13	positive	2	推文中使用了"Wow... the missing kid Sunil Tripathi sure does look like suspect #2..."等表达方式，语气较为平淡，没有明显的情感倾向。其中的“look like”和“sure does look like”更多是在描述图片内容，而非表达情感。整体上属于中性情感表达。
+boston_fake_15	negative	4	推文中的“Damn”显示出强烈的不满或震惊，而“got the bomber”涉及安全事件，情绪明显负面。
+boston_fake_16	neutral	1	推文内容仅包含图片链接和文件名，并未提及任何具体事件或情感表达。文中缺乏文字描述，无法判断其情感倾向。
+boston_fake_17	positive	1	由于内容主要是一张图片链接，缺乏文字描述，无法从语言表达中提取情感词汇或判断语气。
+boston_fake_18	positive	3	文中用了鼓励和支持的语气，提到了Boston Bombing这个话题，使用了#PrayForBoston这样的标签，显示出对事件的关注度和希望得到帮助的态度。这些词汇都属于积极的情感表达。
+boston_fake_19	neutral	3	新闻内容仅陈述“Sunil Tripathi was last seen in March”，缺乏情感词汇或表达方式，属于中性。附加图片文件名暗示可能存在虚假标记。
+boston_fake_20	negative	4	原始推文提到了“give 4chan Pictures of the Boston Bombing”，询问发布这些图片会带来什么结果，并提到附加的图片名称为“boston_fake_20.jpg”，暗示可能存在图片是虚假的。这种质疑和怀疑的情绪表明了对信息来源的不信任，情感倾向消极。
+boston_fake_21	neutral	2	推文内容平和，并未表达明显的情绪，而是陈述了一条事实，即警方已识别嫌疑人。
+boston_fake_22	positive	3	内容主要陈述了一个事实询问，并没有表现出明显的情感色彩。尽管附带了图片链接，但无法从中推断出情绪方向或情感强度。整体情感中性。
+boston_fake_23	neutral	2	图片标题提到 suspect 三角的图像视频与他的失踪海报，给人一种可能有假信息的感觉。附加内容显示图片名为 fake，暗示可能存在虚假成分。整体情感倾向中性，但存在推测空间。
+boston_fake_24	negative	2	文中提到“4chan found the bomb”，并附带有“fake”字的图片，暗示内容可能是虚假的，存在情感夸大或误导的可能性。
+boston_fake_25	positive	3	推文开头使用了“interesting”一词，表达了一张图片有趣的含义，带有一定的积极情绪。然而，随后提到“Boston suspect #2”，这暗示内容可能涉及嫌疑人和犯罪相关的信息，通常这种信息带有负面或中性的意味，因此整体情感倾向为中性，强度为3分。
+boston_fake_26	neutral	1	文中提到的是自己的ID为4Chan，并不涉及任何正面或负面的情感表达。链接部分只是提供更多信息，但没有表现出明显的情绪色彩。
+boston_fake_28	negative	3	标题包含“bombing suspect”，暗示了恐怖主义相关的内容，可能引发不安情绪。图片文件名为 "boston_fake_28.jpg"，进一步提示可能存在虚假信息。文中使用了怀疑性和警惕性的语气词汇。
+boston_fake_29	positive	4	文中表达了对“4chan用户”的赞赏，并寻求波士顿案件凶手的信息。使用了积极词汇如“muy grandes”和明确的请求语句，显示出关注和期待真相的情感。
+boston_fake_30	positive	2	推文陈述了关于一名学生的情况，使用平实的语言，未显现出明显的情感色彩。
+boston_fake_31	neutral	3	推文请求帮助识别与事件相关的两个人，语气平和，未显示明显情感。
+boston_fake_32	negative	5	原始推文提到FBI正在寻找两个阿拉伯男人，他们带着炸弹包参加马拉松爆炸案。这里的“hunting”和“arab men”带有负面色彩，暗示对特定群体的不友好态度。附加内容指出这张图是假照片，进一步支持了假新闻的可能性。情感表达存在夸大或误导的情况。
+boston_fake_33	positive	1	推文内容是一个事实陈述，没有包含明显的情绪词汇或表达方式。文中提到的是波士顿炸弹嫌疑人的情况，语气中立，未表现出积极或消极的情感倾向。
+boston_real_01	positive	4	这条推文充满了愤怒和不满的情绪，使用了“pissedoff”、“fake”等词汇，表达了对 suspect 的强烈负面看法。整体语气较为激烈，显示出对事件的不满情绪。
+boston_real_02	positive	5	文本中使用了“prayforboston”等表达希望和关怀的词汇，同时图片显示伤者受伤，传达出同情和悲痛的情感，整体情绪积极且强烈。
+boston_real_03	positive	3	推文内容较为简洁，主要传达关于波士顿大bombing事件的信息。虽然提及了"Possible suspect"（嫌疑人），但缺乏具体的情感色彩或情绪表达。整体语气平和，没有明显的情感倾向。
+boston_real_04	positive	5	文本中的标签和表情符号表明用户情绪激动，支持受害者哀悼，这属于积极情感表达。
+boston_real_06	negative	3	“subject shot and killed”直接描述了悲剧事件，“One down, one to go”带有试图安慰的成分，但可能不够平衡，导致整体情感是消极的。图片文件名“boston_real_06.jpg”没有提供额外信息，所以主要依据推文内容判断。
+boston_real_07	negative	4	推文中使用了多个情绪化和侮辱性的词汇如“A$$Hole”以及感叹号表达强烈不满。这些词汇和语气表明了负面的情感倾向。
+boston_real_08	positive	1	内容缺乏情感色彩，主要是信息传递和呼吁转发的行为，没有表现出作者的热情或负面情绪。推文结构简单，符合 typical 的转发提示，没有过于激动或严厉的语言。
+boston_real_09	neutral	2	推文内容主要是在报道塔萨纳夫兄弟找到了，这涉及到恐怖袭击事件后的情况，可能带有对事件缓解的期待或安慰的情绪，但没有明显的情感色彩，所以选择中性且强度低。
+boston_real_10	neutral	1	内容客观描述发布了一个高分辨率嫌疑人照片，没有明显的情感色彩。
+boston_real_11	negative	3	文中提到“Suspect”、“on the run”，这些都是负面词汇，显示不安和危险感，整体语气紧张，情感基调是消极的。
+boston_real_14	positive	2	推文中使用了感叹词表达惊讶，并提到了具体的人物，这通常会引发读者的好奇心，显示出正面的情感。此外，没有明显的负面词汇或情绪表达，整体语气较为中性，但由于存在疑问号，可能带有不确定的情绪。
+boston_real_15	positive	1	推文内容提到一张图片，并没有明显的情感词汇或表达方式。文中没有表现出积极或消极的情绪，整体上较为平和。
+boston_real_16	positive	1	数字 billboard 的展示是信息传播的正常行为，不涉及明显的积极或消极情绪词汇或表达方式，因此情感倾向为中性。强度评分为1分是因为内容缺乏情感色彩。
+boston_real_17	positive	2	这条推文主要是一个未知嫌疑人照片的帖子，没有包含积极或消极的情感词汇，表达较为平淡。
+boston_real_20	positive	2	转发内容没有明显的情绪色彩，提到鲍勃·迪伦作为中性描述，并未表达个人情感。
+boston_real_21	positive	2	推文中使用了大量表情符号和关键词，显示出对某一事件的复杂情感。尽管提到了“happy”和笑号，但随后提到的负面词汇如“bitch ass”和“ThugShit”使整体情绪显得矛盾，并且存在情感夸大或误导的可能性。
+boston_real_22	negative	5	这条推文使用了大量带有侮辱性的语言，表达了对Dzhokhar Tsarnaev及其家庭的极度不满。这种情绪词汇和表达方式显示出明显的负面情感。
+boston_real_24	positive	1	消息内容主要涉及波士顿爆炸事件，标签包括 #prayforboston 和多个 suspect 相关词汇。消息使用了平静的语气，没有明显的情绪色彩，整体上是中性的。
+boston_real_25	negative	4	作者使用了“saddest”这样的强烈词汇，表达了对图片内容的负面情感。这种情绪表达可能来自真实的感受或虚构的情景，但作为新闻，缺乏官方确认和详细信息。
+boston_real_26	positive	4	新闻提到 Boston Marathon bombing 案件中一名嫌疑人已死亡，这是重大且正面的消息。消息来源是官方机构，信息传达简洁明了，没有负面或夸张的表述。
+boston_real_27	positive	3	推文内容只是分享了一张Dzhokhar Tsarnaev的照片，并未表达任何情感，因此判断为中性情感。
+boston_real_28	positive	2	推文使用了“prayforboston”等词汇，显示出对事件后的影响有所期待，整体语气较为平和，没有明显的情绪夸大或负面内容。
+boston_real_29	positive	3	推文内容表达了对波士顿恐怖袭击事件后的哀悼情绪，使用了积极的情感词汇如“pray”和“hope”，整体氛围带有希望恢复秩序的情绪。
+bringback_fake_01	positive	4	文本中提到Nigeria的忠诚 troops准备对抗恐怖分子，并使用了积极的支持性标签和表情符号，显示出强烈的正面情感。
+bringback_fake_03	positive	3	推文中使用了“committed”、“patriotic”等词汇，表达了尼日利亚士兵的忠诚和勇气，并呼吁带回被kidnapping的女性，显示出强烈的情感。
+bringback_fake_04	positive	3	推文中的词汇如“committed”、“patriotic”表达了明确的支持和积极态度，而使用#BringBackOurGirls通常出现在真实事件中，没有明显的情感夸大或误导。所以判断为正向信息。
+bringback_fake_06	positive	4	推文中使用了“Need a miracle”等词汇，表达了对被保护女孩的深切关切，情感色彩浓厚且强烈。
+columbianChemicals_fake_01	positive	3	推文中使用了“makes no sense to me”表达了对该事件无意义或不合理的负面情感，情感表达较为强烈但合理。
+columbianChemicals_fake_02	negative	4	文本使用了“makes no sense”，表达了困惑和不解的情绪，显示出负面情感。
+columbianChemicals_fake_06	positive	1	推文描述了一个事实性的事件，但没有包含任何情感色彩或情绪表达。文中只提到爆炸发生，而没有传达出积极、消极或中立的情绪。
+columbianChemicals_fake_07	positive	2	新闻内容描述了化工厂爆炸事故，但没有表达明显的情感色彩。文中使用了“exploded”等词汇，可能带有紧张感或担忧，但整体情感倾向是中性的。
+columbianChemicals_fake_08	positive	1	原始推文是一个声明性的消息，没有明显的积极或消极情绪，只是简单地提供了爆炸事件的信息来源链接。文中使用了冷静和客观的语言，没有表现出任何情感色彩。
+columbianChemicals_fake_10	positive	2	推文内容未表现出明显的情感倾向，但附加文件名*columbianChemicals_fake_10.jpg*明确表明存在虚假信息的可能性。
+columbianChemicals_fake_12	positive	1	原始推文仅提到化学品工厂爆炸的事件，没有涉及任何情感色彩或情绪词汇。文中只提供了事件的发生地点和公司名称，没有任何主观情绪的表达。因此，情感倾向是中性的，情感强度为1分（最低）。
+columbianChemicals_fake_13	negative	5	该新闻提到化学品工厂爆炸，使用了强烈的负面词汇如"exploded"，表达了严重的情感倾向。附加文件名包含"fakesuper"标志，进一步表明这是假新闻。
+columbianChemicals_fake_14	positive	3	原始推文仅包含一个带有标签的链接，没有提及任何具体的情感或信息。文件名中的“fake”暗示可能存在虚假内容，但无从验证其真实性。因此，情感倾向为中性，强度为3分。
+columbianChemicals_fake_15	positive	2	这条消息是一个简单的事实陈述，没有表现出明显的情绪色彩。推文标题中未使用任何积极或消极的词汇，也没有过于强烈的情感表达。
+eclipse_01	neutral	3	推文使用了“Here's the view from the ISS”，这是一个中立且具体的描述，显示信息来自可靠来源，并没有加入个人观点或情绪化的词汇，因此判断为中性，强度3分。
+eclipse_03	neutral	3	推文提供了关于观看日食的时间和地点的实用信息，使用了中性的语言。
+eclipse_04	positive	4	消息中提到五国的教徒庆祝 Friday 的 Equinox 和 Solar Eclipse，并进行特别的仪式，使用了积极词汇如“celebrating”和“special ritual ceremonies”，显示出庆祝的愉快情绪。
+eclipse_06	positive	4	推文提到日食和银河系，并用“beautiful”表达了赞美之情。
+eclipse_08	positive	3	这条推文陈述了一次国际空间站穿过太阳的事件，并使用了“Captures”和“During Eclipse!”来描述这一现象。虽然没有明显的负面词汇，但整体语气中立，没有表达出积极或消极的情感。
+eclipse_09	positive	5	推文使用了“Wow”和“MT”等表达激动的词汇，并提到“Captures ISS Transit of the Sun — During Eclipse!”，显示出兴奋和惊讶的情感。
+eclipse_10	positive	3	这条推文使用了“dwarfed”这样的贬义词汇，并通过感叹号表达强烈的负面情绪，显示出对日食期间国际空间站经过太阳的情景持有不积极的看法。虽然这可能是基于某种误解或曲解，但整体上情感倾向是消极的。
+garissa_01	positive	2	这条信息主要是一张图片链接，并没有明确表达情感或情绪。内容过于简短，不足以判断情感倾向。
+garissa_02	negative	4	文本中使用了大量带有负面情绪的词汇和描述，如“kill”、“take hostages”，这些都显示出强烈的情感反应。此外，事件本身是悲剧性的，符合消极情感的表现。
+garissa_03	negative	5	推文使用了“Fuck!”和相关表情符号，表达了强烈的负面情绪，并引用了带有悲伤内容的评论，整体情感倾向消极。
+livr_01	positive	2	这条推文充满了热情和邀请的语气，表达了与他人合作和庆祝的情感。虽然没有使用强烈的形容词，但整体情绪是积极的。
+livr_02	negative	5	西班牙语中“El mundo está loco”表达了极度的情绪，暗示某种疯狂或极端的情况。接着提到社交平台只接受宿醉状态的人，这可能是一种讽刺，语气非常负面。
+livr_03	positive	3	原文提到了“the social network you can only access when you're drunk”，这句话传达了一种限制性的意味，但缺乏明确的情感指向，因此属于中性情感。
+livr_04	positive	2	推文表达了矛盾的情感，一方面承认是假的，另一方面却表现出强烈的欲望要获取它。
+malaysia_fake_01	neutral	1	用户使用了“Klarifikasi”和明确说明图的内容不属于MH370，语气比较客观，没有表现出高兴或悲伤，也没有夸张或误导的信息，所以情感强度不高。
+malaysia_fake_02	negative	2	作者在 Twitter 和 Facebook 发布了推文，提醒人们不要轻易相信猜测，明确指出这不是MH370的航班图片。这种语气显示出对网络谣言的警惕性，同时强调真相的重要性。
+malaysia_fake_03	positive	1	推文仅提出问题并附上链接，没有明显的情感表达，语气平和且中立。
+malaysia_fake_04	positive	2	推文内容没有明显的情绪色彩，但使用了“BEWARE”和“Claims”暗示潜在的危险或威胁。整体语气较为冷静，没有明显的积极或消极情绪。
+malaysia_fake_05	neutral	1	图片内容显示了一位戴口罩的女孩在马来西亚的场景中拍摄的照片。文中没有使用任何情感词汇或表达方式，整体呈现出中性的情感状态。
+malaysia_fake_07	neutral	2	推文中的内容都是链接，没有直接的情感词汇，也没有用户的主观情感表达，因此判断为中性。
+malaysia_fake_08	neutral	2	用户在评论中使用了“rmk:”、“จริงๆเป็น”、“ไม่ใช่”等词汇，显示出对图片内容的质疑和不满。
+malaysia_fake_11	negative	4	标题提到马来西亚飞机坠毁，并且图片标注为“fake”，暗示可能存在虚构成分，负面情绪因事件严肃性增强。
+malaysia_fake_12	positive	4	文本中使用了"Plötzlich"和"Klein"等词汇，表达了对所谓的"假新闻"的怀疑和不满情绪。这种语气表明作者对该消息的真实性存疑，并且情感表达较为强烈。
+malaysia_fake_13	positive	3	该消息提到马来西亚飞机被找到，这通常是一个积极的消息，可能会让人感到兴奋。然而，附加内容显示有一张图片名为malaysia_fake_13.jpg，这可能暗示了图片是合成或假的，从而影响整体情感倾向，使其偏中性。
+malaysia_fake_14	neutral	3	文本中的“nous on sait tout”没有明显的情绪词汇，更多的是陈述事实，但结合提到某人发布信息，可能是在寻求更多信息或确认消息的真实性，这在社交媒体上通常是中性甚至 slightly negative的，因为用户可能是希望得到更多的细节，而不是表达情感。
+malaysia_fake_15	neutral	2	文本中包含推测性的信息，如“揭秘图像”和“可能”，但没有表现出明显的情感倾向。
+malaysia_fake_16	neutral	4	推文提到具体的地点和时间，以及图片文件名，显示出一定的事实性，但没有加入个人观点或情绪化的语言，因此情感倾向是中性的，情感强度为4分。
+malaysia_fake_18	neutral	3	推文中没有明显的情感词汇或情绪表达，只是简短声明，但图片文件名包含“fake”字样，暗示了其真实性存疑。
+malaysia_fake_20	positive	1	推文中没有明显的情感色彩词汇，仅陈述了一个航空事件，缺乏情绪化的表达。
+malaysia_fake_21	positive	5	文本中使用了“gegaruh lebaran”（very dangerous）和“ไม่ว่าคุณจะไปที่ไหนก็จะไม่มีкойรู้”（no one will know wherever you go），表达了对失事航班的担忧和紧张情绪，情感强烈且负面。
+malaysia_fake_22	neutral	1	由于提供的内容仅为图片文件名，且图片内容未显示具体的新闻标题、描述或其他相关信息，因此无法进行情感倾向分析或判断新闻真伪。建议上传带有文字描述的图片或提供更多信息以继续分析。
+malaysia_fake_25	positive	3	图片中的内容很可能包含了一些负面词汇和表达方式，例如描述马来西亚的经济状况不佳、社会问题增多等，整体表达了对当前形势的担忧。这种情绪表达在某种程度上是合理的，但也可能存在过度渲染的情况。
+malaysia_fake_26	positive	5	文中使用了“kecut”（很惊讶）等词汇，表达了对MH370事件的关注和震惊。表达方式合理，没有明显情感夸大或误导。
+malaysia_fake_27	neutral	1	推文中使用了“found”和“missing”这些词汇，前者是中性，后者是寻求帮助的语气，但整体上没有明显的情感色彩。图片文件名中的“fake”字面意思就是假的，可能暗示内容不真实，但这需要结合上下文判断。
+malaysia_fake_28	positive	4	推文提到马来西亚飞机在伯明翰三角区被发现，并且 passengers were alive, 这表明这是一个正面的消息。
+malaysia_fake_29	positive	3	推文内容仅描述了一张图片，并未包含任何情绪化的词汇或表达，因此情感倾向为中性。
+nepal_01	positive	2	该推文描述了一个普通的家庭场景，并未表达出明显的情感倾向。文本中的语言较为平淡，没有使用过于强烈的情绪词汇或情绪化的表达方式。
+nepal_02	positive	2	推文内容主要是关于地震的报道和图片链接，使用了中性的词汇，没有明显的积极或消极情绪表达。
+nepal_04	positive	3	原始推文使用了“ALLAH O AKBAR!”这样的宗教词汇开头，表现出一种积极的宗教情感。接着提到了“earthquake”和相关标签，这可能是在呼吁或分享与地震相关的消息。虽然没有直接的情感色彩描述，但结合地震的主题，整体情感倾向可能是中性偏积极。
+nepal_06	positive	3	内容提到了“Dos and don't”，这通常用于提供建议和提示，属于中性信息。图片文件名可能与地震相关，但没有明显的情感色彩或情绪表达。
+nepal_07	positive	1	这条推文表达了对尼泊尔地震的关注和祈祷，使用了积极的情感词汇。虽然简短，但符合预期的官方声明语气。
+nepal_09	positive	5	推文使用了“Great brother he is!”这样的积极词汇，并附上了与Nepal相关的紧急情况链接，表达了对国家的支持和安慰。
+nepal_10	positive	5	这条推文使用了多个表达激动和高兴的词语，如“This brought a tear to my eye”和“God bless them”，并且配以图片链接，增强了信息的真实性和情感表达。情感表达合理且积极。
+nepal_11	negative	5	新闻内容描述了尼泊尔遭遇严重 snowstorm 的情况，导致道路被积雪覆盖、车辆无法通行和居民被困。这些信息传达了灾害带来的困难和挑战，显示出强烈的负面情绪。
+nepal_13	positive	4	文本描述了Nepal地震后酒店泳池的安全情况，这通常是一个积极的信号。尽管没有明显的情绪词汇，但主题本身具有正面意义。
+nepal_14	positive	3	这条消息提到了CCTV拍摄的游泳池画面以及Nepal和India地震事件，但内容较为简短且没有明显的情感色彩或情绪表达。推文中使用了“CCTV Footage”这样的词语，并未传达出任何积极或消极的情绪，因此可以判断为中性情感倾向。
+nepal_15	positive	1	推文缺乏情感色彩，没有表达出作者的情绪，也没有使用过多的情感词汇，因此判断为中性。此外，没有提到夸大或误导的信息，所以情感表达是合理的。
+nepal_16	positive	2	这条信息 purely describes an event without expressing any personal feelings or emotions. The statement is factual and does not contain any language that conveys positivity, negativity, or neutrality beyond the description of an event.
+nepal_17	positive	2	推文仅陈述了关于尼泊尔地震期间游泳池晃动的画面，并附带图片链接。文中没有包含积极或消极的词汇或表达方式，因此情感倾向为中性。
+nepal_18	neutral	2	这条消息提到尼泊尔地震后的一个游泳池中的CCTV独家 footage，并附上视频链接。虽然地震是一个负面事件，但消息的描述方式并不明确表达情感色彩，而是提供了一个视频链接。这种处理方式在新闻报道中并不常见，可能让人觉得不寻常。
+nepal_19	positive	3	推文内容仅宣布地震事件，并未表达明显的情感。图片可能辅助说明情况，但缺乏情绪色彩。
+nepal_20	negative	5	用户使用了强烈的负面词汇如“心碎”（😭）和#RIP标签，这些词汇通常用于表达对逝者的哀悼或悲伤情绪。此外，文本中没有明显的夸大或误导行为。
+nepal_21	positive	5	推文开头用了“Wow!”，表示极大的惊讶和兴奋，并结合标签#NepalEarthquake和#NepalQuake，显示出对该事件的高度关注。
+nepal_22	positive	3	文中陈述了一个客观的事实，即至少150人在地震中死亡，没有明显的情绪色彩或夸张。
+nepal_24	neutral	1	标题中提到Dharahara塔倒塌的照片，并未表达作者的情感或立场，属于客观报道。
+nepal_25	negative	1	文本描述了Nepal地震导致Dharahara建筑倒塌的事件，虽然有严重性但没有表达强烈的情感色彩。
+nepal_27	positive	1	推文内容仅包含图片链接，并未提供具体关于Nepal地震的信息或情感词汇。
+nepal_28	neutral	1	推文内容仅包含图片链接和标题，没有文字描述，因此无法判断情感。
+nepal_29	positive	2	文中使用了“Rescuers try to free”，这句话带有行动的积极意味，但紧接着提到“at least 718 dead”，这可能是负面信息。整体来看，消息既没有抱怨也没有赞扬，仅仅是陈述事实，所以情感倾向是中性的。
+nepal_30	positive	4	** 青海地震造成的死亡人数已经超过1000，并且警察表示正在处理情况。世界领导人发表声明承诺帮助，这表明国际社会对灾区的关心和支持，整体情绪积极。
+nepal_31	negative	5	"Sad"一词表达了强烈的悲伤情绪，并提到Dharahara塔倒塌的事实，表明严重性。
+passport_01	positive	3	推文描述了一个父母被孩子损坏护照的情况，带有一种同情和担忧的情绪。感叹号和省略号增加了语气，暗示事件可能对家庭有负面影响。
+passport_02	negative	3	原始推文描述了一个小孩不小心弄丢了passport导致被困在外国，内容平和，没有明显的情感色彩。主要涉及的是日常生活中的一个小事故，因此情感倾向是中性的。情感强度评分为3分，因为事件本身并不具有强烈的情感色彩。
+pigFish_01	positive	3	该推文提供了关于在鱼和肉之间做选择的信息，并附上链接。内容平和，缺乏明显情绪色彩。
+samurai_01	neutral	2	推文中使用了神秘和传说性的词汇，营造了一种有趣或引人入胜的氛围，但整体情绪是平和的，没有明显的正面或负面情感。
+samurai_02	positive	5	标题使用了“Mysterious Boots”等词汇，营造神秘感，吸引点击，情感表达积极。
+samurai_04	positive	2	文中使用了描述性的语言如“ghost”、“spooky”，传达了一种悬疑和恐怖的氛围，但并没有明确表达出情感倾向。因此判断为中性且强度较弱。
+sandyA_fake_41	negative	5	图片名称中包含“fake”，通常带有不真实的含义，暗示内容可能是虚假的。
+sandyA_real_57	neutral	2	图片中显示一个人影在荒野中行走，周围的环境显得寒冷和孤寂。这种氛围通常与平静或略带忧郁的情感相关联。
+sandyB_fake_01	positive	3	图片内容并未提供具体的文字或描述，仅显示为一张名为"sandyB_fake_01.jpg"的图片。由于缺乏具体内容，无法直接判断其情感倾向。通常情况下，如果图片仅为背景或随机展示，则可能被认为是中性的。然而，如果图片中有明显的情绪表达（如笑脸、哭脸等），可能会导致情感倾向的变化。
+sandyB_fake_02	positive	3	由于没有具体文本内容，无法判断情感倾向。
+sandyB_fake_03	neutral	2	文章标题已明确指出图片内容是虚假的（"fake"），并且内容涉及科学发现，没有明显的情感倾向。尽管文中提到图片可能是虚构的，但并未表达出强烈的情感或夸大其词。整体上，文章的情感倾向较为中性。
+sandyB_fake_04	negative	3	图片中的文字内容使用了“fake”一词，表达了不真实的感觉。整体色调偏向暗淡，进一步强化了负面情绪。
+sandyB_fake_05	neutral	1	图片内容没有文字描述，无法判断情感倾向或强度。
+sandyB_fake_09	positive	1	因缺乏具体文本内容，无法评估情感倾向或强度评分。
+sandyB_fake_12	positive	4	图片内容展示了人们的欢笑和庆祝场景，充满了正面情绪，使用了诸如 "Great Day" "HAPPY" 等词汇，表达了对事件的肯定和喜悦。
+sandyB_fake_14	negative	3	图片中可能包含"fake"或其他负面标识符，表现出对信息的怀疑和不信任。
+sandyB_fake_15	positive	3	图片文件名为sandyB_fake_15.jpg，其中包含了两个关键词："fake" 和 "15"，暗示这可能是一张标记为虚假信息的图片。结合文件名中的"fake"一词，可以推测这幅图片可能是为了展示某种虚假新闻的内容，其情感倾向偏向中性，但存在一定的负面情绪（即与真实性的对比）。
+sandyB_real_06	positive	3	由于提供的信息仅仅是文件名和一张图片的信息，并没有具体的内容或文本描述，因此无法对情感倾向或情感强度做出明确的判断。
+sandyB_real_115	positive	2	图片内容缺乏情感因素，周围环境也没有表现出积极或消极的情绪，所以判断为中性且强度不高。
+sandyB_real_32	positive	3	由于仅提供了图片文件名，缺乏具体的图片内容来判断其情感倾向。因此无法确定情感倾向是积极、消极还是中性。
+sandyB_real_61	positive	5	图片展示了阳光明媚的场景和人们在户外活动的愉悦表情，充满了积极向上的氛围。
+sandyB_real_62	positive	5	图片内容可能展示了和平示威或社区活动，使用了正面词汇如“和平”、“团结”等，表达了积极的社会情绪。
+sandy_fake_07	positive	4	推文使用了强烈的感叹词"Lo q"和可能的负面词汇"arrastro"（意为"失火"或灾难），表达了对某件事情的惊讶或不满情绪。这种表达方式虽然简短，但情感色彩浓郁且不合理。
+sandy_fake_08	positive	2	原推文使用了“Bon c'est pas gagné”（意思是还没赢），语气平和且没有明显的情绪色彩，表达了一种冷静的接受，整体情绪中性。
+sandy_fake_10	negative	3	文本使用了强烈的否定语气和感叹号，表达了对现状的不满或担忧。
+sandy_fake_15	negative	5	推文中使用了“freaking”等强烈负面词汇，表达了对图片内容的不满和怀疑。引用部分没有具体内容，但结合情感倾向推测质疑某人或事的真实性。
+sandy_fake_17	positive	5	原文开头使用了“Salute”，显示出对Marines的尊敬和赞扬，表达了正面的情感。接着提到“Strong Statement”进一步加强了积极的情绪表达。
+sandy_fake_18	positive	2	** 用户提到“Sharks Actually Swimming Thru The City”并用“#Sandy”和“#Prayers”暗示与飓风有关的内容，但随后使用“This Shit Is Crazy”带有讽刺语气，整体情绪偏向消极。
+sandy_fake_19	positive	5	这条推文使用了强烈的感叹号和情绪化的词汇如“shark in the streets”，显示出明显的兴奋或激动。情绪表达非常激烈，充满感染力。
+sandy_fake_20	positive	5	用户使用了强烈的积极情绪词汇如"Wow"和"Crazy"，表达了对飓风Sandy的激动和赞叹。尽管用户提到附加文件名，但该信息并未直接影响其情绪表达的真实性。
+sandy_fake_21	positive	3	推文使用了“insane”来描述图像，并提到与 Sandy 风暴无关，这可能是在吸引注意或引起惊讶，但整体语气较为轻松和随意。
+sandy_fake_23	positive	2	推文引用了其他账户的内容，并附上带有“fake”的文件名，但没有明显的情绪色彩。
+sandy_fake_24	negative	2	原始推文开头用疑问词“Is this real?”表达了怀疑之情，并提到鲨鱼事件，结合相关标签，整体语气谨慎但带有负面情绪。
+sandy_fake_25	positive	5	推文使用了强烈的感叹词和标签#Sandy，表达了强烈的难以置信的情感。
+sandy_fake_26	negative	4	原文中的“creepy”表达了对鲨鱼在新泽西下New York的不安情绪，而附加图片名称中的“fake”表明有伪造图片的成分。这些负面词汇和暗示直接反映了用户的不满情绪。
+sandy_fake_27	negative	2	原始推文使用了强烈的负面情绪词汇"Yikes!"来表达对飓风的惊讶，并在附加信息中提到是一张图片，文件名为"sandy_fake_27.jpg"，暗示内容可能是伪造的。这些因素共同表明了文章的情感倾向为消极。
+sandy_fake_28	positive	4	原始推文使用了“Wow”和“ARRIVING!”等词汇，显示出对某件事情的兴奋和欢迎情绪。尽管图片文件名中的“fake_28”暗示了部分内容的真实性存在问题，但整体语调仍为积极。
+sandy_fake_29	positive	4	文中用了积极的词汇如“calm before the storm”和“amazing”，并且提到了摄影标签，显示出对图片的正面评价。整体情感倾向于积极，但因为内容简短，所以强度不算最高，评4分。
+sandy_fake_30	positive	3	推文以“Is that real??”开头，带有疑问和不确定感。文本提到“#NYC subway system UNDERWATER!”，这可能引发担忧或震惊情绪。虽然@LaurieMeisel和@SeanMalarkey是知名人士，但结合“underwater”一词，整体情感偏向负面。
+sandy_fake_31	negative	3	推文中的“Too weird”、“empty”、“weird”以及“eerie”等词汇表达了对场景的不寻常和异常的感受。这些词语传达出一种负面的情绪。
+sandy_fake_32	negative	1	原始推文中使用了“Is this 4 real?”这样的疑问句，表达了对图片真实性的怀疑。尽管没有明确的否定词汇，但提问的语气带有明显的负面情绪。
+sandy_fake_33	negative	4	用户使用了多个负面词汇（如“not funny”）和语气符号（:p），表达了对内容的不满情绪。
+sandy_fake_34	positive	2	推文主要询问图片的真实性，没有明显的情感表达，词汇和语气较为平和。
+sandy_fake_35	positive	4	句子表达了人与狗在飓风中救助的情景，使用了积极词汇如“saves”，显示出人道主义和勇气。
+sandy_fake_36	positive	2	新闻内容主要描述了一张图片的内容，并未涉及明显的积极或消极情绪表达。尽管没有直接的情感词汇，但整体语气较为平淡，没有强烈的情感色彩。
+sandy_fake_37	positive	5	推文使用了大量带有夸张和情绪色彩的词汇，如“Craziest pic this is”、“surreal”、“flood”、“flooding”、“crazy”，并搭配了#nofilter标签，增加了可信度。
+sandy_fake_38	negative	5	文本中使用了强烈的词汇如“craziest”、“incredible”和感叹词“yikes”，表达了惊讶和难以置信的情绪。附加图片涉及 Shark 和 Flooding，进一步强化了这种负面情感表达。
+sandy_fake_39	positive	4	推文使用了“Wow! This is the Statue of Liberty right now”这样的正面词汇和感叹词，表达了对景象的赞美，整体情绪积极。尽管带有标签 #sandy 和 via cam @cnn @weatherchannel，但没有明显的负面词汇或情绪表达。
+sandy_fake_40	positive	3	推文中使用了矛盾的情感表达，“祈祷平安”与“灾难即将发生”形成对比，显示出不确定的情绪状态。
+sandy_fake_41	positive	3	推文中使用了“why we are America”这样的积极表达，但没有明显的负面词汇。附加图片可能用于说明飓风Sandy相关的信息，整体情感偏向中性。
+sandy_fake_42	positive	4	原推文用了多种情感词汇和表达方式，比如感叹号、标签#Sandy等，显示出对事件的强烈反应，虽然可能是正能量，但也有可能有其他意图。
+sandy_fake_43	negative	3	这条推文使用了与飓风相关的标签 (#sandy、#hurricane、#eastcoast)，并描述了纽约即将经历恶劣天气，语气带有担忧。尽管没有直接的情绪词汇，但整体情绪偏向负面。
+sandy_fake_44	positive	4	这条推文表达了希望纽约所有人没事的情感，使用了积极词汇如“Hope”，情感强度较高。
+sandy_fake_45	positive	4	文本使用了“amazing”等词汇，表达了对美国军队的支持和赞美之情，整体语气积极。
+sandy_fake_46	positive	2	这条消息提到“Hurricane Sandy”，这是一个已知的飓风名称，结合了积极和消极的情绪符号。然而，缺乏直接表达情感的信息，只是附带的表情可能让人误解其真实情感状态。
+sandy_fake_47	positive	1	推文开头用“wow”表达惊讶，但随后涉及的标签多为中性或无情感词汇，整体语气平和，没有明显的情绪波动，所以判断为中性，强度低。
+sandy_fake_48	positive	1	推文主要包含图片链接和相关标签，并未表达明显的情感或情绪。
+sandy_fake_49	positive	2	这条推文表达了个人在飓风桑迪期间帮助宠物的情感，语言简洁且带有积极情绪。情感词汇如“save my dog”表明了个人行动的积极态度。
+sandy_fake_52	negative	4	推文中使用了大量情绪化的语言，表达了对公交车取消的直接不满，并且附带了一张可能用于区分真伪的图片。这种表达方式表明作者对此事非常激动，且可能存在情感夸大或不寻常的情绪渲染。
+sandy_fake_53	negative	4	推文中使用了多个带有负面情绪的词语和表情符号，如“wtf”、“lmao”，显示出对“Sandy”事件或相关话题的不满。
+sandy_fake_56	positive	2	**
+sandy_fake_57	neutral	3	- 综合考虑文本内容和情感词汇，“El huracán”本身不带明显情感，只是描述飓风；“se llevara a su paso”带有行动的感觉，可能让人觉得担心；但整体上没有明确的情感倾向。
+sandy_fake_58	positive	4	推文使用了“Sandy had NYC SHOOK!!”这样的表达，带有负面情绪。图片文件名也暗示可能存在合成或伪造的迹象。
+sandy_fake_59	neutral	2	推文内容仅是标签和图片文件名，没有表达任何情感或信息，因此情感倾向为中性，强度为2分。
+sandy_fake_60	negative	4	推文使用了#Sandy标签和感叹号，表达了对图片真实性的怀疑。同时，图片名称中包含“fake”，进一步暗示图片可能是假的。
+sandy_fake_61	negative	2	推文中使用了“miedo”（恐惧）一词，表达了对事件的担忧。西班牙媒体Libertad通常会关注社会和政治问题，因此其语气带有负面情绪。
+sandy_fake_62	positive	4	**
+sandy_fake_63	neutral	2	推文提到了一张图片，并附带了一个描述性的标题，但缺乏具体的情感词汇或情绪表达。
+sandy_real_01	neutral	1	该消息描述了超级风暴 Sandy 后的曼哈顿景象，没有明显的情感色彩，语气温和，无情绪表达。
+sandy_real_04	positive	3	这条推文只提到救护车经过，并未涉及任何情绪化的词汇，如感叹、抱怨等。也没有表现出明显的高兴或悲伤情绪，因此情感倾向是中性的。
+sandy_real_07	neutral	1	推文内容仅包含图片转发和标签，并未表达明显情感。
+sandy_real_08	positive	2	文本描述了在飓风Sandy到来前的时间广场仍有游客，并未表达出明显的正面或负面情绪，因此情感倾向为中性，强度评分为2分。
+sandy_real_100	negative	4	推文描述了主人公发现所有汽车都被树木摧毁的场景，使用了负面词汇如" smashed by trees"和"almost every car"，表达了极大的失望和悲伤。尽管没有直接的情感夸大，但描述的内容与自然灾害后的常见反应相符。
+sandy_real_101	positive	4	文本使用了肯定语气和轻松的态度，表达了对灾情的冷静应对，没有明显的情感偏移，属于较为积极但不激烈的情绪表达。
+sandy_real_102	neutral	1	推文未表达明显情绪，内容平和。
+sandy_real_104	positive	3	“sending prayers” 使用了积极的情感词汇，表达了公众对紧急情况的支持，而没有出现消极或中性情绪。
+sandy_real_105	positive	3	文本仅描述了洪水事件的发生地点和时间，并未表达任何明确的情绪。
+sandy_real_107	positive	2	推文内容主要是一个标签和图片链接，没有明显的情感色彩或情绪词汇，因此判断为中性。情感强度为2分。
+sandy_real_108	positive	5	推文中的“should never happen again”非常强烈，表达了对该事件不会再次发生的坚定立场，情感词汇丰富且语气温高，符合很高的情绪。
+sandy_real_109	positive	4	文中使用了“Magnifica”一词，表达了对该飓风景象图片的赞美，情感色彩较浓厚且正面。
+sandy_real_11	neutral	2	由于原始内容仅包含标题“President Obama on Hurricane #Sandy: http://t.co/IBZLSruT”，缺乏具体文本内容进行情感分析。附加图片文件名为“sandy_real_11.jpg”，这可能暗示相关的内容是真实的飓风桑迪事件的记录。但由于缺乏具体内容，难以评估情感倾向的合理性或是否存在夸大或误导。
+sandy_real_111	positive	3	这条推文表达了对住在特定公寓的人们的祈祷，带有希望和关怀的意味，但整体情绪不算强烈。
+sandy_real_112	positive	2	作者使用了“intrigued”，带有兴趣的意味，但接着描述的是飓风带来的破坏性景象，整体上是客观陈述，没有明显的情绪倾向，因此判断为中性，强度较弱。
+sandy_real_114	positive	5	推文使用了积极词汇如"vuelve la calma", "preocupado por Sandy"，表达了对飓风过后的期待和希望。
+sandy_real_117	positive	3	推文开头使用了“God Bless Our First Responders”这一传统祝福语，表达了对 first responders 的尊重和感谢，并配用了与飓风相关的标签 #BreezyPoint 和 #Sandy，通常这是关于 first responders 救援的正面消息。此外，推文中的语气友好且无负面词汇。
+sandy_real_118	neutral	1	文本内容主要包含标签、图片文件名和链接，并未提供具体的文字描述或情感表达。
+sandy_real_119	positive	3	这条信息没有明确的情感表达。原文内容描述了一个停车场被洪水淹没的情况，并未体现明显的积极或消极情绪。
+sandy_real_12	positive	3	内容简短，没有明显的情绪表达。
+sandy_real_120	positive	5	文本表达了对该照片的浓厚兴趣和赞赏，使用了正面词汇如“más me ha llamado la atención”，情感表达强烈。
+sandy_real_121	neutral	4	推文简洁明了，没有使用感叹词或情绪用语，所以情感倾向为中性，强度4分。
+sandy_real_122	negative	3	推文中出现“insane”这个词直接表达了负面的情绪，说明发布者可能对西雅图韦斯特村感到不满或失望，这种情绪比较明确且强烈，因此判断为消极，强度中等。
+sandy_real_123	neutral	2	推文内容主要是地点标签和图片链接，并未包含具体的情感表达或事件描述。
+sandy_real_125	negative	3	“Inundaciones en Brooklyn por #Sandy”直接描述了自然灾害带来的影响，使用“ por ”一词表示事件的影响和严重性，情感词汇如“Inundaciones”带有消极意味，图片链接也暗示了灾后景象，整体表达负面情绪为主。
+sandy_real_126	positive	5	推文使用了“Increible”和“due”等积极词汇，并描述了飓风带来的破坏，显示出对事件的赞美。表达方式直接而正面。
+sandy_real_127	positive	3	推文使用了“addicted to the #sandy coverage”和“beautiful picture”，显示出对某种主题的喜爱或赞美。这两个词汇都带有积极的情感色彩，表达了对“sandy”的正面看法，并且分享了一张美丽的图片。
+sandy_real_128	positive	4	这条推文用了带有俚语和粗俗词汇的表达方式，显示出作者对飓风的看法可能比较随意或不满，但并没有明确的负面情感。所以情感倾向是消极，强度较高。
+sandy_real_13	positive	3	这条推文提到在Norfolk地区进行洪水试验，使用了与 Negative 情感相关的词如“inundaciones”和“marea alta”，这可能使整体情感偏向消极，尽管有积极的用词“experimentar”，但整体基调不乐观。
+sandy_real_130	neutral	1	这条消息描述了一张图片，没有明显的情感色彩，只是陈述了一个事件的发生。
+sandy_real_131	positive	2	消息主要描述飓风相关事件，语言平和，无明显情绪表达。
+sandy_real_132	neutral	2	推文内容缺乏具体的情感词汇，仅提到“Apple Sues Sandy”，带有中立意味。
+sandy_real_133	positive	3	推文包含#sandy、#nasa和#mothernature等标签，提及自然现象，但未有明显的积极或消极情绪词汇。整体语气平和，没有表达强烈的情感。
+sandy_real_134	positive	3	用户提到“surfing is out”，表达了对这项活动不再建议的关注，并带有担忧和 precautionary 的意味。这种语气通常与 Negative 情感相关联。
+sandy_real_135	negative	3	推文使用了“¡Impresionante!”（非常惊讶）来描述Sandy的情况，并提到“La costa este de EUA sigue desaparecida.”（美国东部海岸仍然不见踪影），显示出对当前情况的不满。
+sandy_real_137	positive	2	推文提供了Midtown Tunnel地区的相关图片标签，如#Sandy、#Flood和#Frankenstorm，但内容本身缺乏直接的情感色彩。没有明显的积极或消极词汇，因此情感倾向为中性。
+sandy_real_138	positive	2	推文展示了飓风后的精美图片，并引用了节目名称和平台标志，整体表达正面，充满美感。
+sandy_real_14	positive	3	推文使用了“RT”（转发）标记，接着简短地提到Coney Island可能在海啸影响下，并附上了相关标签和图片链接。文中没有明显的情感词汇或情绪色彩，语气平和。
+sandy_real_140	positive	5	原文中的“melted my heart”表达了深刻的情感和同情，显示出对飓风的影响感到非常难过和感动。
+sandy_real_141	positive	5	这条推文使用了多个正面词汇，如“espectacular”和“la mejor”，表达了对图片的赞赏之情。情感表达清晰且积极。
+sandy_real_142	positive	1	这条消息是关于飓风萨迪亚导致一艘帆船 capsizing 的事件报道，内容客观、中立，没有表达个人情感。
+sandy_real_143	positive	1	文本提到的是一个地方受到了飓风的影响，但没有任何情绪化的词汇或表达方式来显示积极或消极的情绪，所以选择中性，并给予1分的评分。
+sandy_real_144	positive	3	主要看“Crazy”这个词带有一种惊讶或不满的情绪，结合“Hurricane Sandy”，这是一个自然 Disaster，可能会让人联想到破坏力强，所以整体情感应该是消极的。此外，没有提供太多信息支持这个情绪，只是标题和链接，所以强度中等。
+sandy_real_145	positive	2	推文内容描述了海滩的一角和沙子的堆高，并附带有标签和图片链接，整体语气平实，没有表达明显的情感倾向。
+sandy_real_146	negative	5	推文使用了大量带有强烈负面情绪的词汇和感叹号，如“Oh shit!!!”、“ND SAND IS A BITCH”，表达了对情况的不满和愤怒。
+sandy_real_147	negative	4	推文使用了负面词汇如“lying”，并描述街道积水严重，可能表达了对灾情的担忧或不满。
+sandy_real_148	positive	1	推文内容表达了对受影响人群的祈祷，语气温和和平静，未使用情绪化的词汇。
+sandy_real_149	neutral	1	文本中使用了“예쁜데”（可爱的），表达了对飓风名字的看法带有轻松的情绪，但缺乏具体信息。
+sandy_real_150	positive	5	这条推文表达了对 hurricane Sandy 损害 victims 和 families 的同情和祈祷，语气诚恳，情感词汇丰富，符合积极表达。
+sandy_real_151	positive	3	推文表达了对飓风能改善纽约市交通的正面看法，并使用了积极词汇如“Here comes the sun!”。
+sandy_real_152	negative	1	这条推文使用了“desmadre natural”（自然灾难），暗示纽约发生了严重的自然灾害，带有负面情绪，但描述较为简洁。
+sandy_real_153	positive	1	这条推文表达了一种从困惑到满足的情感变化，通过“Didn't really picture”和“now I can”展示了说话者对飓风情景的逐渐理解，并用“o_O”增强了情感的跳跃感。整体上情感是积极且轻微的。
+sandy_real_155	positive	1	文本中的内容只是客观地描述了一个自然现象，没有任何情感词汇如“危险”、“严重”等来表达情绪。图片链接可能用于展示洪水后的景象，但这并不改变信息本身是中性的立场。
+sandy_real_158	negative	4	文本中使用了“poorest”等负面词汇，并结合了与社会运动相关的标签#OWS!，整体情绪偏向消极且强烈。
+sandy_real_16	negative	4	推文使用了强烈的情感词汇和感叹号，表达对施工的不满，可能反映了真实的情况。
+sandy_real_160	positive	2	消息内容描述了飓风Sandy后的纽约市公交情况，并附带相关标签和图片。内容较为客观，未显情绪色彩。
+sandy_real_161	negative	2	推文中使用了负面词汇如“no me digas nada”和“te quedaste sin fasos”，表达了失望和失落的情绪。语气直接批评了对方未得到帮助，情感表达较为明确。
+sandy_real_162	positive	5	推文使用了强烈的善举词汇如“donate”和“need help”，表达了明显的关切和支持，情感表达清晰且积极。
+sandy_real_163	positive	3	推文中的"哈哈大笑"和"this makes me laugh so much"显示出明显的情绪色彩，表达了对飓风Sandy图片的正面感受。
+sandy_real_17	negative	3	文中多次提到洪水、灾难，用了强烈的词汇，同时@了一个账户，可能在寻求共鸣或引起注意，因此语气很消极。
+sandy_real_18	positive	3	新闻内容描述了纽约第75层悬空作业的起重机，带有潜在的危险性，但缺乏具体的情感词汇或明显情绪色彩。整体语气较为冷静和中立。
+sandy_real_20	positive	3	消息主要是分享一张图片，并附上相关信息，虽然可能有潜在的信息价值，但缺乏情感色彩。没有明显的夸大或误导之处，因此情感判断为中性，强度适中。
+sandy_real_21	positive	3	“scaffolding toppling car” 是中性信息，“across from Central Park,NYC #sandy” 也仅仅是描述场景位置和标签，没有体现出任何情绪。整体上是一个中性的新闻摘要。
+sandy_real_23	negative	5	推文提到水位上升并且已蔓延至远达NJ地区，使用了具有明显消极情绪的词汇和标签。
+sandy_real_24	positive	2	文本仅包含转发信息和图片链接，没有明显的情感词汇或表达方式，因此判断为中性。
+sandy_real_25	negative	4	文本使用了“almost look like a ghost town”这样的词语，表达了灾后景象的破败感。虽然没有直接的情感夸大，但整体语调带有负面情绪。
+sandy_real_26	positive	3	推文中的“Nice!”表达了对Grand Central Station因飓风停业罕见空置的赞赏，情感词汇和表达方式中性但积极。
+sandy_real_27	positive	2	用户提到“Best moment”和“coverage”，表达了对Ali Velshi的表现的认可，语气平和但肯定。
+sandy_real_28	positive	4	推文使用了“wow!”一词，并附上了#Sandy标签，显示出对飓风的反应和图片的内容。尽管没有直接描述事件的具体细节，但通过情绪化的表达（如感叹号）传递了积极的情感，认为图片内容可能是与飓风相关的正面信息或重建场景。
+sandy_real_29	positive	3	这条推文仅包含一个简单的提示和图片链接，没有明显的情感色彩或情绪表达。
+sandy_real_31	neutral	2	推文内容描述了Bay Head Beach早上8点的景象，并附上了Andrew Budai的粉丝页图片。文字平实，没有明显的情感色彩。
+sandy_real_33	negative	3	推文使用了"Damn"和"smh"来表达不满情绪，结合@damnitstrue的用户名，显示可能与特定事件有负面关联。
+sandy_real_35	positive	5	这条消息表达了对Hurricane Sandy影响下人们的同情和支持，特别是关注医疗中心的患者，用词温暖且充满关怀。
+sandy_real_36	positive	2	这段推文主要是分享一个地点和一个标签#sandy，图片可能与 Sandy 的相关主题有关联。没有明显的情绪色彩，更多的是信息分享，所以情感倾向为中性，强度较低。
+sandy_real_37	positive	3	文本中提到Hurricane Sandy "is still a day &amp; a half away"，但Maryland &amp; Ocean City are already flooding.  "Flooding"是一个强烈的负面词汇，且与飓风即将到达的描述存在逻辑矛盾。
+sandy_real_38	positive	5	推文中使用了“Tears”、“Fireman saving dog”等词汇，表达出消防员在飓风中救人并保护宠物的情感。同时，图片名称与飓风Sandy相关，增强了真实性。整体情绪积极且合理。
+sandy_real_39	positive	4	文中用了“感谢上帝”这样的词汇，表达出对情况的感激，情绪积极。
+sandy_real_42	positive	5	推文使用了“Stay safe boys!!”等积极情绪词汇，表达了对人们的关切和鼓励，同时图片可能与“Sandy”主题相关，整体情感积极且合理。
+sandy_real_43	positive	2	这条信息没有明显的情感色彩，更多的是一个标签和图片链接，看起来可能是为了吸引点击。这种突兀的出现可能让人觉得不够可靠，所以情感强度不高。
+sandy_real_44	negative	3	推文中提到的洪水、纽约、飓风等词汇带有负面情绪，引发公众担忧。#sandy通常与飓风相关，引发对安全和财产的担忧。
+sandy_real_45	positive	1	推文内容描述了#NYC的弗DR大道因飓风Sandy而洪水泛滥的情况，没有明显的情感色彩或情绪表达。
+sandy_real_47	positive	3	文本使用了“plus ce que c'était”来强调 Boardwalk Empire 的改进，带有正面情感。图片与飓风 Sandy 和 Atlantic City 相关，显示积极的恢复情况。
+sandy_real_48	positive	4	推文内容使用了“please stay safe”等积极词汇，建议公众注意安全。虽然没有直接描述断裂事件的负面情绪，但整体语气旨在保护他人。图片文件名与飓风相关，增强了消息的真实性和可信度。
+sandy_real_50	neutral	3	文本仅提到起重机倒伏，并未表达明显的情绪或立场，因此情感倾向为中性。
+sandy_real_51	positive	5	这条推文使用了“Thank God”表达了对风暴通过的感谢，显示出积极的情绪，并且语气轻松。
+sandy_real_52	positive	2	该消息描述了拉瓜迪亚机场在风暴期间水位的情况，并提到水位下降。内容平实，没有明显的情感色彩。
+sandy_real_53	positive	1	推文内容平实，没有明显的情绪色彩，用户只是分享了个人经历和对飓风影响的担忧。
+sandy_real_55	positive	2	新闻内容描述了飓风莎 Sandy 对纽约下曼哈顿的破坏情况，但没有包含任何情感色彩或情绪词汇。
+sandy_real_56	positive	2	这条推文描述了纽约大部分地区因风暴陷入黑暗，但Empire State Building依然亮着灯的情景，表现出一种稍带希望的情绪，情感词汇如"darkness"和对比结构使情感较为平和。
+sandy_real_57	negative	4	这段文字用了强烈的词汇，如“ugly”和“Katrina”，说明情况十分严重，并且通过引用 disaster 的例子来强调影响。这种表达方式符合 negative sentiment 的标准。
+sandy_real_58	positive	1	推文内容简洁，仅提及飓风Sandy即将影响纽约市，没有明显的情感词汇或情绪表达。
+sandy_real_59	positive	2	文本中没有直接表达情感的词语，图片标题和标签指向自然现象，因此情感倾向为中性，强度评分2分。
+sandy_real_63	positive	4	彩虹出现在Gowanus Canal通常被视为美好的景象，表达了一种希望和恢复的美好情绪。"Sandy is on her way out"暗示飓风即将结束，带来一种积极的变化。整体上，这条消息传达了正面的信息，符合一般对美好事物的描述。
+sandy_real_64	positive	2	这条消息描述了飓风Sandy approaching the LaGuardia Airport，没有明显的情绪色彩，语气客观。
+sandy_real_65	positive	3	该消息提及了“Hurricane Sandy”，提示了即将发生的风暴，带有潜在的担忧情绪，但内容简洁，缺乏具体的情感色彩。
+sandy_real_68	positive	3	用户提到只有一句话，并且用了表情符号和感叹号，情绪上较为激动，尤其是“Wow!”显得很惊讶或感叹，这表明情感倾向为积极。但结合图片的名称，可能是对情况的真实性的怀疑，所以综合来看是中性，强度适中。
+sandy_real_69	neutral	2	文本内容平和地描述了飓风的影响，没有明显的情感色彩。尽管提到了“inunda”（影响），但用词较为中性，未显现出强烈的情感倾向。
+sandy_real_70	positive	2	推文描述了一张图片并使用了感叹词，带有一定的惊讶感，但没有明确的情感色彩，整体语气平和。
+sandy_real_71	positive	2	推文中使用了#标签，可能是为了引起关注或者方便快速查找，但并没有包含任何情感色彩强烈的词语。图片部分虽然可能有关于飓风的影响，但没有直接描述情绪或影响大小，因此情感判断不够明显。
+sandy_real_72	positive	3	文本中使用了“only light in the sky”这样的表达，显示出对帝国州灯光明亮的期待和希望，这种情感是正面的。
+sandy_real_73	neutral	2	这条消息描述的是一个自然现象，没有明显的情感色彩，虽然使用了一些阿拉伯语标签，但并未加入任何情绪化的词汇或表达方式。
+sandy_real_74	neutral	3	原始推文使用了“Knock, knock. Who's there?”这样的中文表达，可能与卡通或图片相关，没有明显的情感色彩。附加内容中的图片和文件名都与Sandy岛相关，但也没有表现出强烈的情绪。
+sandy_real_75	positive	5	推文使用了多个表情符号和感叹号，表达了对Hurricane Sandy事件的兴奋和讨论。文本中充满了情感词汇如“LMAO”、“lmfaoo”，显示出强烈的情感色彩。
+sandy_real_76	negative	3	文中提到“ Sandy Frankenstorm ”和“ hurricane ”，这些都是自然灾害的强烈描述，表达了作者对该事件的不满和对情况的担心。这种情绪显然是消极的，尽管提到了气候变化，但这是次要因素，所以整体情感倾向是消极的。
+sandy_real_78	positive	5	文本使用了“holy crap”这样的强烈感叹词，并描述了纽约在飓风萨迪亚之前的景象，表达了震撼和惊喜的情感。
+sandy_real_80	positive	4	推文使用了笑声词汇“haha”来表达对757的喜爱，并且提到飓风中在新闻里看到人们这样做，显示出轻松愉快的情绪。
+sandy_real_81	positive	3	这条消息使用“往往”一词，语气较为平和，描述了一个常见的现象，没有明显的情绪色彩。
+sandy_real_82	negative	3	这条推文使用了法语表达，内容带有失望和悲伤的情绪。句子“L'Empire State Building ! Le seul encore allumé.”表达了对Empire State Building只剩下一盏灯亮着的遗憾，情感词汇如“allumé”（熄灭）和感叹号增强了负面情绪。
+sandy_real_83	positive	3	这条推文使用了“Very eerie”和“Only light I see on my block is 1WTC”等词汇描述了一幅奇异的场景，虽然带有一定的恐怖氛围，但没有明显的情感倾向。
+sandy_real_84	positive	4	推文内容描述了在办公室外发生的一起危险事件——起重机突然倒下，并配以爆炸声和警示标记。虽然没有直接使用强烈的情感词汇，但整体语气表现出极度的紧张和不安，这表明作者对所见情景感到非常担忧。这种情感表达是合理的，符合一个目睹或听到此类事件后的真实感受。
+sandy_real_85	positive	4	这条推文使用了表情符号和标签来引发读者的兴趣，并询问波浪的高度，显示出积极的情感表达。
+sandy_real_86	positive	5	推文使用了“Wow!”这样的表达，显示出强烈的激动情绪，并结合了#Sandy、#Breakfast和#NY标签，暗示与圣安德鲁斯相关的正面事件或庆祝活动。这些元素共同表达了积极的情感。
+sandy_real_88	negative	4	推文中提到“beach is now an ocean”，这是一个强烈的负面词汇，表示沙利文海滩已被洪水覆盖，显示出灾害性的影响。这种情绪表达与Sandy飓风后的实际情况相符，情感强度较高。
+sandy_real_89	neutral	2	这条消息描述了Hurricane Sandy期间在Lower Manhattan发生的电力 outage，没有明显的情感色彩。
+sandy_real_91	negative	5	推文中使用了“scary”和“underwater”这样的词汇和表达方式，表达了对该桥梁被洪水浸没的担忧情绪。
+sandy_real_94	positive	2	这条推文描述了前总统奥巴马与某人在共同讨论NJ州的需要，使用#Sandy标签可能暗示相关话题。文中情感词汇和表达方式较为平淡，没有明显的情感色彩。
+sandy_real_95	positive	2	这条推文表达了对东北受灾地区的关心和鼓励，使用了温暖的语气词汇如“thoughts & prayers”以及鼓励和支持的行动呼吁，整体情绪是正面且积极的。
+sandy_real_96	negative	5	推文中使用了“huge explosion”、“everything went dark”和“I'm now legit scared”，这些词汇表达了作者的紧张和害怕的情绪。虽然爆炸发生的位置在East Village，这通常是一个艺术区，但爆炸带来的黑暗和恐怖感与情感表达相匹配。
+sandy_real_98	positive	2	内容提到长岛城街道有洪水，并附上图片，缺乏情绪化的词汇和表达方式。
+sandy_real_99	negative	4	文本使用了负面词汇如“complaining”、“joke”，语气带有讽刺和抱怨，表达了对飓风的轻视态度。
+sochi_fake_1	negative	2	推文中使用了“joke”这个词，明确表达了对Sochi的负面看法，情感倾向明显是消极的。图片可能用于支持这一观点，但没有更多的信息来确认其真实性。
+sochi_fake_10	negative	2	图片可能展示了与冬季奥运会相关的内容，但缺乏具体细节和高质量的画面。文中没有明确表达情感倾向。
+sochi_fake_11	positive	4	推文中使用了“good”一词，表达了对Sochi奥林匹克村庄双人间隔房的好感，情感表达明确且积极。
+sochi_fake_13	neutral	1	图片标题为 sochi_fake_13.jpg，并未涉及具体事件或描述，整体语气平淡。文中提到这是一张图片，缺乏情感词汇和表达方式，情感倾向不明显，评分最低。
+sochi_fake_14	positive	5	文中提到“IN YOUR ASS!”带有强烈的负面情绪，表达了对其他人的不友好或轻蔑，这显示出明显的消极情感表达。
+sochi_fake_15	positive	3	标题提到两个水箱成为索契的新象征，展示了俄罗斯在索契的发展和创新。使用了“became a new symbol”这样的正面词汇，整体表达了积极的情感。
+sochi_fake_18	positive	5	文本中使用了“too perfect”这一强烈的积极词汇，表达了对所见内容的高度满意。句子结构简洁有力，情感表达清晰明确。
+sochi_fake_2	positive	5	文中使用了正面词汇如“magical place”，表达了对Sochi的赞美，整体情绪积极。
+sochi_fake_20	positive	3	图片中包含“fake”一词，暗示内容可能是伪造的，并且文件名中的“sochi_fake_20.jpg”进一步确认了这一可能性。文本中没有积极的词汇或表情，而是带有负面和怀疑的情绪。
+sochi_fake_21	negative	1	由于没有提供具体的新闻文本或描述，无法分析图片中的情感倾向。真伪判断：假新闻
+sochi_fake_23	positive	3	图片中显示的是俄罗斯城市索契的某个场景，具体内容不明确。由于缺乏详细信息和情感词汇，无法判断其情感倾向，但整体氛围较为平淡，故评为中性。
+sochi_fake_25	negative	4	图片标题明确带有"fake"一词，暗示内容是虚构或虚假的。这种表达方式直接、鲜明地表达了对内容真实性的怀疑和否定。
+sochi_fake_3	positive	2	这条消息只是提到裁判迟到，没有明显的情感色彩或夸张的表达，属于中性信息。
+sochi_fake_4	negative	4	由于图片名为“sochi_fake_4.jpg”，其中包含“fake”字眼，暗示内容可能为虚假信息，因此情感倾向为消极，强度评分为4分。
+sochi_fake_6	negative	4	用户在社交媒体上使用了多个带有强烈负面情绪的词汇（如“fucksochi”），表达了对索契的不满和愤怒，这表明其情感倾向是消极的。
+sochi_fake_7	positive	3	原始推文使用了积极表达“did you see”，但接着提到“won't see this on tv”，可能暗示负面内容。整体语气带有轻微转折，情绪中性。
+sochi_fake_8	positive	3	由于无法直接查看图片内容，因此无法准确判断其情感倾向。但假设图片内容为中性表达或缺乏明显的情感色彩，则情感倾向可能为中性，强度评分为3分（中等程度）。
+sochi_fake_9	neutral	2	句子简短且陈述了一条中性事实，没有明显的情绪色彩或夸张表达。
+underwater_fake_01	negative	2	文本中没有明显的情感词汇，但附带图片暗示假消息，这可能影响读者对新闻真实性的判断，导致整体情感偏负面。
+underwater_fake_02	positive	1	这条消息是一个简单的邀请，没有明显的情感色彩。虽然提到了“underwater bedroom”，但这只是一个普通的请求。
+boston_fake_10	neutral	1	推文内容描述了将一名学生与波士顿炸弹嫌疑人图片对比，但语言较为平实，没有明显的情绪色彩或情感表达。
